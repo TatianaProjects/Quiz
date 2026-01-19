@@ -15,8 +15,12 @@
 - **CSS3** – styling and layout
 - **JavaScript** – quiz logic, scoring, and interactivity
 
-LIVE DEMO
+## Live Demo
 
 https://delightful-longma-99f409.netlify.app/
+
+### Screenshots
+
+<img src="quiz_preview.jpg" alt="Quiz Preview" width="400">
 
 
