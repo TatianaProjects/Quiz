@@ -1,26 +1,19 @@
-# Quiz App
+## Quiz App ❓
 
-**Quiz App** is an interactive web application that allows users to test their knowledge through multiple-choice quizzes. It emphasizes clean UI and smooth functionality.
+Interactive quiz app for testing general knowledge. Tracks score and provides feedback.
 
-## Features
+### Features
+- Multiple-choice questions
+- Score calculation at the end
 
-- Multiple-choice questions with immediate feedback.
-- Dynamic scoring for correct answers.
-- Responsive design for desktop and mobile.
-- Simple, intuitive user interface.
+### Demo
+[Live Demo on Netlify](https://delightful-longma-99f409.netlify.app/)
 
-## Technologies Used
+### Screenshot
+<img src="quiz_preview.jpg" alt="Quiz App Preview" width="400">
 
-- **HTML5** – structure of the app
-- **CSS3** – styling and layout
-- **JavaScript** – quiz logic, scoring, and interactivity
+### Technologies
+JavaScript, HTML5, CSS3
 
-## Live Demo
-
-https://delightful-longma-99f409.netlify.app/
-
-### Screenshots
-
-<img src="quiz_preview.jpg" alt="Quiz Preview" width="400">
 
 
